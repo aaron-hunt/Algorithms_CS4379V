@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Aaron_R5/CLionProjects/zybook1.1/Solution.cpp
+iostream
+-
+cstdio
+-
+vector
+-
+algorithm
+-
+utility
+-
+
+C:/Users/Aaron_R5/CLionProjects/zybook1.1/main.cpp
+iostream
+-
+Solution.cpp
+C:/Users/Aaron_R5/CLionProjects/zybook1.1/Solution.cpp
+vector
+-
+

@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/Aaron_R5/CLionProjects/zybook1.2/cmake-build-debug/CMakeFiles/zybook1_2.dir/embed.manifest"
